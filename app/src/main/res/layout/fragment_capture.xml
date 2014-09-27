@@ -9,10 +9,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/capture_button"
-            android:id="@+id/capture_button"
-            android:layout_alignParentTop="true"
-            android:layout_alignParentLeft="true"
-            android:layout_alignParentStart="true" />
+            android:id="@+id/capture_button"/>
 
         <ImageView
             android:layout_width="wrap_content"
